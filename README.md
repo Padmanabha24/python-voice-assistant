@@ -1,7 +1,7 @@
 # python-voice-assistant
 import speech_recognition as sr
 import pyttsx3
-
+ 
 # Initialize the recognizer and engine
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
